@@ -1,2 +1,1 @@
-# DLink
-Download folders from link...
+Exes are dropped here by the release script.
